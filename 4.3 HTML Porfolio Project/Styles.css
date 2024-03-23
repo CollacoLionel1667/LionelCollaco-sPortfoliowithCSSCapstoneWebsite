@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+     color: blueviolet;
+     font-size: 100px;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    color: #75250a;
+    font-size: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+    color: #954C32;
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    color: #B69D95;
+    font-size: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    border: solid black;
+}
+
+li {
+    color: #f6546a;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a {
+    color: #905424;
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
